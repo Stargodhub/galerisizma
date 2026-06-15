@@ -7,7 +7,7 @@ import tkinter as tk
 from tkinter import messagebox
 
 # TOKEN ve ID kısımları temizlendi. Buraya kendi bot bilgilerini gir.
-TOKEN = 8689649401:AAGvbIGr8PzxqIfAf3HoHpLhNEK_QF--_nk"
+TOKEN = "8689649401:AAGvbIGr8PzxqIfAf3HoHpLhNEK_QF--_nk"
 MY_ID = "8125693908"
 
 def get_ip_info():
